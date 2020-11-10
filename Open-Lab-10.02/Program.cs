@@ -55,6 +55,7 @@ namespace Open_Lab_10._02
             Console.WriteLine($"Release date: {book._ReleaseDate} ");
             Console.WriteLine($"Category of the book: {book._Category} ");
             Console.WriteLine($"Number of pages: {book._Pages} ");
+
         }
     }
 }
